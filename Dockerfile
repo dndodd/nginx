@@ -1,2 +1,2 @@
 FROM nginx:alpine
-COPY prepaga_producion /usr/share/nginx/html
+COPY dndodd/prepaga_producion /usr/share/nginx/html
